@@ -69,7 +69,7 @@ h5{
       <ul>
 
         <li><a href="about.php"><h3><em>About Us</em></h3></a></li>
-        <li><a href=":8501"><h3><em>Our Mission</em></h3></a></li>
+        <li><a href="http://34.220.205.183:8501"><h3><em>Our Mission</em></h3></a></li>
         <li><a href="login.php"><h3><em>Login/Register</em></h3></a></li>
         <li><a href="contact.php"><h3><em>Contact Us</em></h3></a></li>
       </ul>
